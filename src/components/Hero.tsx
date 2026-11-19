@@ -31,7 +31,7 @@ export function Hero({ onTry }: Props) {
             Las reuniones terminan. Los <span className="gradient-word">pendientes</span> no se pierden.
           </h1>
           <p className="mt-6 max-w-xl text-lg text-ink-soft">
-            Pega la transcripción y Hilo separa lo que se decidió de lo que hay que hacer, con responsable y
+            Pega la transcripción e Hilo separa lo que se decidió de lo que hay que hacer, con responsable y
             fecha para cada tarea.
           </p>
           <div className="mt-9 flex flex-wrap items-center gap-x-6 gap-y-3">
